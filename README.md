@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Logrus IT
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 
 <!--
 **Vilodya/Vilodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
