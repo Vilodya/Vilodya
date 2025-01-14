@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Logrus IT (DTP Specialist)
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-My LinkedIN is [here] (www.linkedin.com/in/vladimir--denisov)
+My LinkedIN is www.linkedin.com/in/vladimir--denisov
 
 
 <!--
