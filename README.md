@@ -1,6 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Logrus IT
+- 🔭 I’m currently working on Logrus IT (DTP Specialist)
 - 🌱 I’m currently learning HTML, CSS, JavaScript
+My LinkedIN is [here] (www.linkedin.com/in/vladimir--denisov)
+
 
 <!--
 **Vilodya/Vilodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
