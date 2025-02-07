@@ -1,6 +1,9 @@
 ## Hi there 👋
+This is my personal and learning Github
+
+### About me
 - 🔭 I’m currently working on Logrus IT (DTP Specialist)
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript, TypeScript, React
 - 📫 My LinkedIN is www.linkedin.com/in/vladimir--denisov
 
 
