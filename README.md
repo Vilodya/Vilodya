@@ -2,7 +2,7 @@
 This is my personal and learning Github
 
 ### About me
-- 🔭 I’m currently working on IMarketing.kz (Technical Support Manager)
+- 🔭 I’m currently working at home
 - 🌱 I’m currently learning JavaScript, Vite, Tailwind
 - 📫 My LinkedIN is www.linkedin.com/in/vladimir--denisov
 
