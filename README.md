@@ -3,7 +3,7 @@ This is my personal and learning Github
 
 ### About me
 - 🔭 I’m currently working at home
-- 🌱 I’m currently learning JavaScript, Vite, Tailwind
+- 🌱 I’m currently learning JavaScript, Vite, SASS, Tailwind & VueJs 3
 - 📫 My LinkedIN is www.linkedin.com/in/vladimir--denisov
 
 
