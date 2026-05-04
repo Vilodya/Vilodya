@@ -1,23 +1,37 @@
-## Hi there 👋
-This is my personal and learning Github
+# Hi, I'm Vladimir 👋
 
-### About me
-- 🔭 I’m currently working at Uchet.kz
-- 🌱 I’m currently learning Vue & Nuxt 3
-- 📫 My LinkedIN is www.linkedin.com/in/vladimir--denisov
+Frontend Developer from Almaty.  
+I build interfaces with Vue, Nuxt, JavaScript, HTML, CSS/SCSS.
 
+Currently working at Uchet.kz and improving my Vue/Nuxt skills.
 
-<!--
-**Vilodya/Vilodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 🔭 Working at **Uchet.kz**
+- 🌱 Learning **Vue 3 / Nuxt 3**
+- 💻 Interested in building web applications and improving UI/UX
+- 📫 LinkedIn: www.linkedin.com/in/vladimir--denisov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Main stack
+- Vue 3
+- Nuxt 3
+- JavaScript (ES6+)
+- TypeScript (basic)
+- HTML5 / CSS3 / SCSS
+- Git / GitHub
+
+---
+
+## 📈 Currently improving
+- Vue architecture (Composition API)
+- Working with APIs
+- UI/UX patterns
+- Clean code & project structure
+
+---
+
+## ⚡ Fun fact
+Started from simple layouts and now moving to full applications 🚀
