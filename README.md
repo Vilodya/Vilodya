@@ -1,37 +1,42 @@
 # Hi, I'm Vladimir 👋
 
-Frontend Developer from Almaty.  
-I build interfaces with Vue, Nuxt, JavaScript, HTML, CSS/SCSS.
+Frontend Developer from Almaty, Kazakhstan.  
+I build web applications with **Vue 3, Nuxt 4, and TypeScript**.
 
-Currently working at Uchet.kz and improving my Vue/Nuxt skills.
+Currently working at **Uchet.kz** as the sole frontend developer on **PK-Uchet**, a service for researching and comparing companies.
 
----
+## 💼 What I work on
 
-## 🚀 About me
-- 🔭 Working at **Uchet.kz**
-- 🌱 Learning **Vue 3 / Nuxt 3**
-- 💻 Interested in building web applications and improving UI/UX
-- 📫 LinkedIn: www.linkedin.com/in/vladimir--denisov
+- Developing company search, filters, comparison tools, and company profiles.
+- Building account pages, payment flows, and data visualizations.
+- Integrating REST APIs and WebSocket updates.
+- Creating reusable components and responsive interfaces.
+- Maintaining the frontend architecture and development environment.
 
----
+Recently migrated the project from **Nuxt 3 to Nuxt 4**, simplifying its structure while keeping server-side rendering.
 
-## 🛠 Main stack
-- Vue 3
-- Nuxt 3
-- JavaScript (ES6+)
-- TypeScript (basic)
-- HTML5 / CSS3 / SCSS
-- Git / GitHub
+## 🛠 Tech stack
 
----
+- **Frontend:** Vue 3, Nuxt 4, JavaScript, TypeScript
+- **UI:** HTML, CSS/SCSS, Tailwind CSS, Nuxt UI
+- **State & validation:** Pinia, Zod
+- **Tools:** Git, GitHub, Docker, ESLint, Prettier
+- **Infrastructure I work with:** GitHub Actions, Nginx, Linux
 
-## 📈 Currently improving
-- Vue architecture (Composition API)
-- Working with APIs
-- UI/UX patterns
-- Clean code & project structure
+## 🌱 Currently learning
 
----
+- Python and Django, with the goal of contributing to the backend of our project.
+- JavaScript and TypeScript fundamentals in greater depth.
+- Practical backend development, databases, and deployment basics.
 
-## ⚡ Fun fact
-Started from simple layouts and now moving to full applications 🚀
+I like learning through small working projects and applying new knowledge to real tasks.
+
+## ⚡ Beyond frontend
+
+I have a background in history and enjoy teaching programming to children.
+
+Outside web development, I experiment with **Raspberry Pi, Pico 2 W, and MicroPython**, gradually building a tracked robot.
+
+## 📫 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/vladimir--denisov/)
